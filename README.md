@@ -1,8 +1,8 @@
-##Unbreakable Patches - A Discord Bot
+## Unbreakable Patches - A Discord Bot
 
-###This is a discord bot used as pratice, its used on a Dark Souls Themed Server That I manage.
+### This is a discord bot used as pratice, its used on a Dark Souls Themed Server That I manage.
 
-###Features
+### Features
 * Ban List
 * Role Management
 * Playing Music 
