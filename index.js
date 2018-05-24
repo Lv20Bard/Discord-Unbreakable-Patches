@@ -7,7 +7,7 @@ const client = new Commando.Client({
     owner:'99271561151803392',
     disableEveryone: true
 });
-const token = 'NDQzMTI5MjEyMjcxMDY3MTQ2.DdI32g.rDpnnOpheFL-2r80zzl5HFOlHRM';
+const token = ;
 const {oneLine} = require('common-tags');
 
 // Emojis for Voting - Change these to your servers equivilant emojis
